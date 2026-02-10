@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Nagomiru.Core/Nagomiru.Core.csproj" />
+  <Project Path="Nagomiru.Infrastructure/Nagomiru.Infrastructure.csproj" />
+  <Project Path="Nagomiru.Linux/Nagomiru.Linux.csproj" />
+  <Project Path="Nagomiru.Mobile/Nagomiru.Mobile.csproj" />
+  <Project Path="Nagomiru.WPF/Nagomiru.Windows.csproj" />
+</Solution>
